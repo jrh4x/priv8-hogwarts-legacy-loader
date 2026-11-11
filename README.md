@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="banner.png" width="100%" alt="Hogwarts Legacy">
 </p>
 
@@ -20,9 +20,11 @@ PRIV8 is a dedicated tool for Hogwarts Legacy, providing a simple loader and an 
 ## Screenshots
 
 ### Loader
+
 ![PRIV8 Loader](loader.png)
 
 ### In-Game Control Panel
+
 ![PRIV8 Control Panel](panel.png)
 
 ## Access & Authentication
@@ -40,7 +42,19 @@ Designed for Hogwarts Legacy.
 ## Developer
 
 **jrh4x** &nbsp;
+<a href="https://www.instagram.com/jr_h4x/" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" alt="Instagram"/>
+</a>
 
+## Download
+
+<p align="center">
+  <a href="https://github.com/jrh4x/priv8-hogwarts-legacy-loader/raw/refs/heads/main/Priv8%20-%20Hogwarts%20Legacy.exe">
+    <strong>DOWNLOAD PRIV8</strong>
+  </a>
+</p>
+
+Download the executable directly from this repository.
 
 ---
 
