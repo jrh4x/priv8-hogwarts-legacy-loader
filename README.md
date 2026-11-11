@@ -12,7 +12,6 @@ PRIV8 is a dedicated tool for Hogwarts Legacy, providing a simple loader and an 
 - **Infinite Attack**
 - **Infinite Magic**
 - **Broom Nitro**
-- **Additional Gameplay Options**
 
 ## Screenshots
 
