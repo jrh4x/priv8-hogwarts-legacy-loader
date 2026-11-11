@@ -1,4 +1,8 @@
-# PRIV8 — Hogwarts Legacy
+<p align="center">
+  <img src="banner.png" width="100%" alt="Hogwarts Legacy">
+</p>
+
+<h1 align="center">PRIV8 — Hogwarts Legacy</h1>
 
 <p align="center">
   <strong>Advanced Gameplay Customization</strong>
