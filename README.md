@@ -35,13 +35,10 @@ Designed for Hogwarts Legacy.
 
 ## Developer
 
-**jrh4x**
-
-<p align="left">
-  <a href="https://www.instagram.com/jr_h4x/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" alt="Instagram"/>
-  </a>
-</p>
+**jrh4x** &nbsp;
+<a href="https://www.instagram.com/jr_h4x/" target="_blank">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" alt="Instagram"/>
+</a>
 
 ---
 
