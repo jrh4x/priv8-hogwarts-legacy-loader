@@ -37,6 +37,12 @@ Designed for Hogwarts Legacy.
 
 **jrh4x**
 
+<p align="left">
+  <a href="https://www.instagram.com/jr_h4x/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" alt="Instagram"/>
+  </a>
+</p>
+
 ---
 
 *PRIV8 is an independent community project. It is not affiliated with, endorsed by, or sponsored by Warner Bros. Games or Portkey Games.*
