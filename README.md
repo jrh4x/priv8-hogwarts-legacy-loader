@@ -17,10 +17,10 @@ PRIV8 is a dedicated tool for Hogwarts Legacy, providing a simple loader and an 
 ## Screenshots
 
 ### Loader
-![PRIV8 Loader](screenshots/loader.png)
+![PRIV8 Loader](loader.png)
 
 ### In-Game Control Panel
-![PRIV8 Control Panel](screenshots/panel.png)
+![PRIV8 Control Panel](panel.png)
 
 ## Access & Authentication
 
